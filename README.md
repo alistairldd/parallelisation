@@ -1,1 +1,1 @@
-lien du git du [cours] (github.com/kayaogz)
+lien du git du cours : (github.com/kayaogz)
